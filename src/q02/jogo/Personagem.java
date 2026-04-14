@@ -1,4 +1,4 @@
-package q02;
+package q02.jogo;
 
 public abstract class Personagem {
   protected   String nome;

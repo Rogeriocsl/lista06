@@ -1,4 +1,4 @@
-package q02;
+package q02.jogo;
 
 import java.util.ArrayList;
 import java.util.List;

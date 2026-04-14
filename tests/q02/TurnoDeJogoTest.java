@@ -2,6 +2,8 @@ package q02;
 
 import org.junit.Before;
 import org.junit.Test;
+import q02.jogo.*;
+
 import static org.junit.Assert.*;
 
 public class TurnoDeJogoTest {

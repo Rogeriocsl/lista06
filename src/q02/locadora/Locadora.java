@@ -1,4 +1,4 @@
-package q1;
+package q02.locadora;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package q1;
+package q02.locadora;
 
 abstract class Veiculo {
     private String placa;

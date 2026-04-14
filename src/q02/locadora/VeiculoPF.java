@@ -1,4 +1,4 @@
-package q1;
+package q02.locadora;
 
 public class VeiculoPF extends Veiculo {
     private String cpfLocatario;

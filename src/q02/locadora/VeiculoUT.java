@@ -1,4 +1,4 @@
-package q1;
+package q02.locadora;
 
 public class VeiculoUT extends Veiculo {
     public VeiculoUT(String placa, int ano) {

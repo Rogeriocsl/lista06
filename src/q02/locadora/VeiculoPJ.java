@@ -1,4 +1,4 @@
-package q1;
+package q02.locadora;
 
 public class VeiculoPJ extends Veiculo {
     private String cnpj;

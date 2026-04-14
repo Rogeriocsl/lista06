@@ -1,4 +1,4 @@
-package q02;
+package q02.jogo;
 
 public class Mago extends Personagem {
     private int danoMagico;
