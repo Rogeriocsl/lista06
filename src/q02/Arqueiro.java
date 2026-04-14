@@ -19,7 +19,7 @@ public class Arqueiro extends Personagem {
         if(estaVivo() && flechasRestantes > 0){
             alvo.receberDano(danoFlecha);
             flechasRestantes--;
-            System.out.println(getClasse() + " executando " + getNome());
+            System.out.println(getNome() +" Atirou flecha");
         }
     }
 

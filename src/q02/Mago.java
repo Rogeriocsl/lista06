@@ -20,7 +20,7 @@ public class Mago extends Personagem {
         if(estaVivo() && manaAtual >= custoMana){
             manaAtual -= custoMana;
             alvo.receberDano(danoMagico);
-            System.out.println(getClasse() + " executando " + getNome());
+            System.out.println( getNome() +" soltou magia ");
         }
 
     }

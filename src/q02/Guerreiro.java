@@ -12,7 +12,7 @@ public class Guerreiro extends Personagem {
     public void executarAtaque(Personagem alvo) {
         if(estaVivo()){
             alvo.receberDano(danoEspada);
-            System.out.println(" Atacou" + getNome()) ;
+            System.out.println(getNome() +" Uso espada" ) ;
         }
     }
 
